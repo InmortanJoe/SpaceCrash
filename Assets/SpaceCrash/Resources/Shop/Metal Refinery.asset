@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1785372853b592c45821bdca46b7b794, type: 3}
+  m_Name: Metal Refinery
+  m_EditorClassIdentifier: 
+  name: Metal Refinery
+  description: Process Metal into a valious materials.
+  level: 1
+  cost: 500
+  resource: 0
+  Type: 0
+  Icon: {fileID: 21300000, guid: 71693c62be6c5904cbd351c0b0254877, type: 3}
+  prefab: {fileID: 5739095518257295281, guid: f55a5bc65b74f074da57c79a41975fff, type: 3}

@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: ee78034df7a334447b8c56ee6d0d531a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1721776439274011913
+    second: rock_cliffs_0
+  - first:
+      213: 4548580462347392877
+    second: rock_cliffs_1
+  - first:
+      213: 3713457989874929118
+    second: rock_cliffs_2
+  - first:
+      213: 286751923378896869
+    second: rock_cliffs_3
+  - first:
+      213: -6719713857500391438
+    second: rock_cliffs_4
+  - first:
+      213: 3874065021779295707
+    second: rock_cliffs_5
+  - first:
+      213: -77981357581603660
+    second: rock_cliffs_6
+  - first:
+      213: 8200225493411387689
+    second: rock_cliffs_7
+  - first:
+      213: 7909893571840348342
+    second: rock_cliffs_8
+  - first:
+      213: -7420809914170632186
+    second: rock_cliffs_9
+  - first:
+      213: -207945386857904040
+    second: rock_cliffs_10
+  - first:
+      213: -5260551685298324286
+    second: rock_cliffs_11
+  - first:
+      213: -7918546370370424409
+    second: rock_cliffs_12
+  - first:
+      213: 224531625893164500
+    second: rock_cliffs_13
+  - first:
+      213: 2279178893377668622
+    second: rock_cliffs_14
+  - first:
+      213: -8475278180982361711
+    second: rock_cliffs_15
+  - first:
+      213: -124745072020764260
+    second: rock_cliffs_16
+  - first:
+      213: -6359177410332950689
+    second: rock_cliffs_17
+  - first:
+      213: 678234340390035735
+    second: rock_cliffs_18
+  - first:
+      213: 1838965480908068900
+    second: rock_cliffs_19
+  - first:
+      213: 6444469424964474116
+    second: rock_cliffs_20
+  - first:
+      213: -1649766131864574968
+    second: rock_cliffs_21
+  - first:
+      213: 1384426557460609325
+    second: rock_cliffs_22
+  - first:
+      213: -1432493452442534973
+    second: rock_cliffs_23
+  - first:
+      213: 5562362120561687316
+    second: rock_cliffs_24
+  - first:
+      213: -5907360696959961559
+    second: rock_cliffs_25
+  - first:
+      213: 1016506081939273897
+    second: rock_cliffs_26
+  - first:
+      213: 9087809384402294394
+    second: rock_cliffs_27
+  - first:
+      213: 4325459844699360422
+    second: rock_cliffs_28
+  - first:
+      213: 276721848559056298
+    second: rock_cliffs_29
+  - first:
+      213: 8737745078373890725
+    second: rock_cliffs_30
+  - first:
+      213: -1488958044515579906
+    second: rock_cliffs_31
+  - first:
+      213: -5275450891647479094
+    second: rock_cliffs_32
+  - first:
+      213: -8458414480457715127
+    second: rock_cliffs_33
+  - first:
+      213: 7251933922574880255
+    second: rock_cliffs_34
+  - first:
+      213: -6416159362295911132
+    second: rock_cliffs_35
+  - first:
+      213: 2354638499266918564
+    second: rock_cliffs_36
+  - first:
+      213: -5469236049092554435
+    second: rock_cliffs_37
+  - first:
+      213: 5886374497802902674
+    second: rock_cliffs_38
+  - first:
+      213: -1010394734957386016
+    second: rock_cliffs_39
+  - first:
+      213: 6547522568429958562
+    second: rock_cliffs_40
+  - first:
+      213: 371097099876233961
+    second: rock_cliffs_41
+  - first:
+      213: -5152914783041917618
+    second: rock_cliffs_42
+  - first:
+      213: -26305989345244645
+    second: rock_cliffs_43
+  - first:
+      213: 4507557721612336802
+    second: rock_cliffs_44
+  - first:
+      213: 8004693887133391079
+    second: rock_cliffs_45
+  - first:
+      213: -8156773919450092567
+    second: rock_cliffs_46
+  - first:
+      213: -4551193225343392428
+    second: rock_cliffs_47
+  - first:
+      213: -6469519746686870297
+    second: rock_cliffs_48
+  - first:
+      213: -9077288840637262399
+    second: rock_cliffs_49
+  - first:
+      213: -1669038825546335475
+    second: rock_cliffs_50
+  - first:
+      213: 5188097474690278225
+    second: rock_cliffs_51
+  - first:
+      213: 6435883730357087230
+    second: rock_cliffs_52
+  - first:
+      213: -8759906001013446497
+    second: rock_cliffs_53
+  - first:
+      213: -124084930706143352
+    second: rock_cliffs_54
+  - first:
+      213: -1808291118840995534
+    second: rock_cliffs_55
+  - first:
+      213: -6460289481791398893
+    second: rock_cliffs_56
+  - first:
+      213: 167103164104205959
+    second: rock_cliffs_57
+  - first:
+      213: -8575640551476690336
+    second: rock_cliffs_58
+  - first:
+      213: -7349887895195446971
+    second: rock_cliffs_59
+  - first:
+      213: 7384151207922707679
+    second: rock_cliffs_60
+  - first:
+      213: -6210037868226861245
+    second: rock_cliffs_61
+  - first:
+      213: 9019716778727279066
+    second: rock_cliffs_62
+  - first:
+      213: 6372489370169412856
+    second: rock_cliffs_63
+  - first:
+      213: -8067976689843054562
+    second: rock_cliffs_64
+  - first:
+      213: -6785982009040349845
+    second: rock_cliffs_65
+  - first:
+      213: 3464708314525539927
+    second: rock_cliffs_66
+  - first:
+      213: 7191510779345488891
+    second: rock_cliffs_67
+  - first:
+      213: -8375825788874199675
+    second: rock_cliffs_68
+  - first:
+      213: 5848145602156102435
+    second: rock_cliffs_69
+  - first:
+      213: 7455274850499509822
+    second: rock_cliffs_70
+  - first:
+      213: -3522970166351457770
+    second: rock_cliffs_71
+  - first:
+      213: -3045693357611211935
+    second: rock_cliffs_72
+  - first:
+      213: 8619537753327526506
+    second: rock_cliffs_73
+  - first:
+      213: 5269295175328116035
+    second: rock_cliffs_74
+  - first:
+      213: -916652817523292577
+    second: rock_cliffs_75
+  - first:
+      213: 4737894237799307978
+    second: rock_cliffs_76
+  - first:
+      213: -904551254020848642
+    second: rock_cliffs_77
+  - first:
+      213: 7825099219157558523
+    second: rock_cliffs_78
+  - first:
+      213: 3031762674351909129
+    second: rock_cliffs_79
+  - first:
+      213: 4806098284366541434
+    second: rock_cliffs_80
+  - first:
+      213: -3817346710317801190
+    second: rock_cliffs_81
+  - first:
+      213: -6263472123575294963
+    second: rock_cliffs_82
+  - first:
+      213: -2375153308279562926
+    second: rock_cliffs_83
+  - first:
+      213: 2049907287971114255
+    second: rock_cliffs_84
+  - first:
+      213: 8797076505509894989
+    second: rock_cliffs_85
+  - first:
+      213: -231246966585759733
+    second: rock_cliffs_86
+  - first:
+      213: 2202027829616166530
+    second: rock_cliffs_87
+  - first:
+      213: 8383735453217623990
+    second: rock_cliffs_88
+  - first:
+      213: 5494519915965025366
+    second: rock_cliffs_89
+  - first:
+      213: -2123342585484453675
+    second: rock_cliffs_90
+  - first:
+      213: 3431680975119543192
+    second: rock_cliffs_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rock_cliffs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f28f6a63750b18e0800000000000000
+      internalID: -1721776439274011913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679f72c4ddcf1f30800000000000000
+      internalID: 4548580462347392877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc4d6fd5ad88330800000000000000
+      internalID: 3713457989874929118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb8a3ea5fbaf300800000000000000
+      internalID: 286751923378896869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f75b6369d7ceb2a0800000000000000
+      internalID: -6719713857500391438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddbbe39c9173c530800000000000000
+      internalID: 3874065021779295707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcee325e54faeef0800000000000000
+      internalID: -77981357581603660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92953ecb3ad0dc170800000000000000
+      internalID: 8200225493411387689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b090b09b4695cd60800000000000000
+      internalID: 7909893571840348342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608992043bcf30990800000000000000
+      internalID: -7420809914170632186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85847abb5ca3d1df0800000000000000
+      internalID: -207945386857904040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf5332d14cef6b0800000000000000
+      internalID: -5260551685298324286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1bc98c70cab1290800000000000000
+      internalID: -7918546370370424409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5f33af252bd1300800000000000000
+      internalID: 224531625893164500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06085fb02541af10800000000000000
+      internalID: 2279178893377668622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1917de9f563c16a80800000000000000
+      internalID: -8475278180982361711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99c8b69401d44ef0800000000000000
+      internalID: -124745072020764260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f7a6176d9afb7a0800000000000000
+      internalID: -6359177410332950689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7116b650a82996900800000000000000
+      internalID: 678234340390035735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4281bb39c51558910800000000000000
+      internalID: 1838965480908068900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4059fd83cca5f6950800000000000000
+      internalID: 6444469424964474116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_21
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804edb3a17ada19e0800000000000000
+      internalID: -1649766131864574968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d297e077e98763310800000000000000
+      internalID: 1384426557460609325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf6107bc2ce1ce0800000000000000
+      internalID: -1432493452442534973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bfa24c0ea713d40800000000000000
+      internalID: 5562362120561687316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f891aeb6d40ea0800000000000000
+      internalID: -5907360696959961559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b30655ea5b1e00800000000000000
+      internalID: 1016506081939273897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7692cf5c726e1e70800000000000000
+      internalID: 9087809384402294394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac858dbfce170c30800000000000000
+      internalID: 4325459844699360422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5b3fc1e0d17d300800000000000000
+      internalID: 276721848559056298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aab46eaad4b24970800000000000000
+      internalID: 8737745078373890725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7403f1c88265be0800000000000000
+      internalID: -1488958044515579906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac295555d55d9c6b0800000000000000
+      internalID: -5275450891647479094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9423c4938dcad9a80800000000000000
+      internalID: -8458414480457715127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd4eadea7b04a460800000000000000
+      internalID: 7251933922574880255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_35
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2e04ed0935f6a0800000000000000
+      internalID: -6416159362295911132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8734b5d3b5da020800000000000000
+      internalID: 2354638499266918564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d3156ace5914b0800000000000000
+      internalID: -5469236049092554435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd57c1b6a90b150800000000000000
+      internalID: 5886374497802902674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a0f3875b5af1f0800000000000000
+      internalID: -1010394734957386016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5fe12f5197dda50800000000000000
+      internalID: 6547522568429958562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2fc4f98d6662500800000000000000
+      internalID: 371097099876233961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d6dee5e4b2d78b0800000000000000
+      internalID: -5152914783041917618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8c9197da82aff0800000000000000
+      internalID: -26305989345244645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb541addf0e8e30800000000000000
+      internalID: 4507557721612336802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_45
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8935efda2661f60800000000000000
+      internalID: 8004693887133391079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba10236515dce80800000000000000
+      internalID: -8156773919450092567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_47
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1048
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4552e33ffd9e6d0c0800000000000000
+      internalID: -4551193225343392428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec9a5f3116a736a0800000000000000
+      internalID: -6469519746686870297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5d23a94edf60280800000000000000
+      internalID: -9077288840637262399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb9f6f70266d8e0800000000000000
+      internalID: -1669038825546335475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e30f5a23dff740800000000000000
+      internalID: 5188097474690278225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb66ab672ad05950800000000000000
+      internalID: 6435883730357087230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98e7cf67ef8e6680800000000000000
+      internalID: -8759906001013446497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8870847b969274ef0800000000000000
+      internalID: -124084930706143352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2312df2eec8a7e6e0800000000000000
+      internalID: -1808291118840995534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c91a3c1f07856a0800000000000000
+      internalID: -6460289481791398893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866641417ba15200800000000000000
+      internalID: 167103164104205959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620cc7aa543df880800000000000000
+      internalID: -8575640551476690336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 798
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5419ee396e3fff990800000000000000
+      internalID: -7349887895195446971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc21049666c97660800000000000000
+      internalID: 7384151207922707679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472d96067381d9a0800000000000000
+      internalID: -6210037868226861245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad98baa2f987c2d70800000000000000
+      internalID: 9019716778727279066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc86ebb151af6850800000000000000
+      internalID: 6372489370169412856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18d5c152f9c80090800000000000000
+      internalID: -8067976689843054562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6555f2015953d1a0800000000000000
+      internalID: -6785982009040349845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e13a1fadd151030800000000000000
+      internalID: 3464708314525539927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbc74993f06dc360800000000000000
+      internalID: 7191510779345488891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de89172d613cb80800000000000000
+      internalID: -8375825788874199675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323074bb079c82150800000000000000
+      internalID: 5848145602156102435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e3dee0af4767760800000000000000
+      internalID: 7455274850499509822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 548
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61292589c45eb1fc0800000000000000
+      internalID: -3522970166351457770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16321dc27068bb5d0800000000000000
+      internalID: -3045693357611211935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e72b1befbe9770800000000000000
+      internalID: 8619537753327526506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dac164b0c402940800000000000000
+      internalID: 5269295175328116035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c92d7e156743f0800000000000000
+      internalID: -916652817523292577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acad563f4b160c140800000000000000
+      internalID: 4737894237799307978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef304fe4d636273f0800000000000000
+      internalID: -904551254020848642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4a21ad746589c60800000000000000
+      internalID: 7825099219157558523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909a800e61cf21a20800000000000000
+      internalID: 3031762674351909129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_80
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7238430de0b2b240800000000000000
+      internalID: 4806098284366541434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_81
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a116003646f060bc0800000000000000
+      internalID: -3817346710317801190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_82
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04abb5f94da319a0800000000000000
+      internalID: -6263472123575294963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_83
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 298
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d17e476a2c90fd0800000000000000
+      internalID: -2375153308279562926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da00a41dbb27c10800000000000000
+      internalID: 2049907287971114255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b1adc097e751a70800000000000000
+      internalID: 8797076505509894989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08e44deb127accf0800000000000000
+      internalID: -231246966585759733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286cbc9e4ac2f8e10800000000000000
+      internalID: 2202027829616166530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf82ebc9f2095470800000000000000
+      internalID: 8383735453217623990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 48
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c876a90c4704c40800000000000000
+      internalID: 5494519915965025366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 48
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d85dbf1b2f5882e0800000000000000
+      internalID: -2123342585484453675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_cliffs_91
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 48
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b67704aa7cf9f20800000000000000
+      internalID: 3431680975119543192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bf07ede64ae1c4649aa983fc4001763e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
